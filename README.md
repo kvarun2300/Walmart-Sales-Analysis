@@ -4,6 +4,7 @@ Tools used : GoogleColab, MySQL, PowerBI
 1️.Explore the Data
 
 Goal: Understand the raw dataset before transformation.
+
 Actions:View sample records using .head().
 Inspect column names, data types, and structure using .info().
 Check statistical distribution using .describe().
