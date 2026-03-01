@@ -1,8 +1,8 @@
 # Walmart-Sales-Analysis (Python + SQL + Power BI)
 Tools used : GoogleColab, MySQL, PowerBI
 
-1.Explore the Data
-Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
+###1.Explore the Data
+--Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
 Analysis: Use functions like .info(), .describe(), and .head() to get a quick overview of the data structure and statistics.
 2. Data Cleaning
 Remove Duplicates: Identify and remove duplicate entries to avoid skewed results.
